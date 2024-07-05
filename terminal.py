@@ -4,6 +4,7 @@ import shutil
 import requests
 import zipfile
 import socket
+from g4f.client import Client
 
 class SimpleTerminal(cmd.Cmd):
     prompt = '> '
