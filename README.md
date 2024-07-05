@@ -125,4 +125,27 @@ Comandos disponíveis:
         Exemplo: run ls -l
 
 # Quem é um criador disso aqui? 
-é um idi... um desocu... um programador jovem chamado Artur Seixas que ama criar programas.
+é um idi... um desocu... um programador jovem chamado Artur Seixas que ama criar programas parecidos com o terminal.
+# Utilização
+
+## Linux: 
+sudo apt install python3
+sudo apt install git
+git clone https://github.com/terminalimproved/terminalimproved
+cd terminalimproved
+python3 terminal.py --start
+
+## MacOS
+brew install python
+brew install git
+git clone https://github.com/terminalimproved/terminalimproved
+cd terminalimproved
+python terminal.py --start
+
+## Windows 
+git clone https://github.com/terminalimproved/terminalimproved
+cd terminalimproved
+python terminal.py --start
+(Lembre-se de instalar o python e o git)
+git : https://git-scm.com/download/win
+python : https://www.python.org/downloads/windows/
